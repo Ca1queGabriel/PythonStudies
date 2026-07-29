@@ -1,0 +1,217 @@
+[
+  {
+    "hero": "Ana",
+    "role": "Support",
+    "releaseDate": "2016-07-19"
+  },
+  {
+    "hero": "Ashe",
+    "role": "Damage",
+    "releaseDate": "2018-11-13"
+  },
+  {
+    "hero": "Baptiste",
+    "role": "Support",
+    "releaseDate": "2019-03-19"
+  },
+  {
+    "hero": "Bastion",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Brigitte",
+    "role": "Support",
+    "releaseDate": "2018-03-20"
+  },
+  {
+    "hero": "Cassidy",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "D.Va",
+    "role": "Tank",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Doomfist",
+    "role": "Tank",
+    "releaseDate": "2017-07-27"
+  },
+  {
+    "hero": "Echo",
+    "role": "Damage",
+    "releaseDate": "2020-04-14"
+  },
+  {
+    "hero": "Freja",
+    "role": "Damage",
+    "releaseDate": "2025-04-22"
+  },
+  {
+    "hero": "Genji",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Hanzo",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Hazard",
+    "role": "Tank",
+    "releaseDate": "2024-12-10"
+  },
+  {
+    "hero": "Illari",
+    "role": "Support",
+    "releaseDate": "2023-08-10"
+  },
+  {
+    "hero": "Junker Queen",
+    "role": "Tank",
+    "releaseDate": "2022-06-28"
+  },
+  {
+    "hero": "Junkrat",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Juno",
+    "role": "Support",
+    "releaseDate": "2024-08-20"
+  },
+  {
+    "hero": "Kiriko",
+    "role": "Support",
+    "releaseDate": "2022-10-04"
+  },
+  {
+    "hero": "Lifeweaver",
+    "role": "Support",
+    "releaseDate": "2023-04-11"
+  },
+  {
+    "hero": "Lúcio",
+    "role": "Support",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Mauga",
+    "role": "Tank",
+    "releaseDate": "2023-12-05"
+  },
+  {
+    "hero": "Mei",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Mercy",
+    "role": "Support",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Moira",
+    "role": "Support",
+    "releaseDate": "2017-11-16"
+  },
+  {
+    "hero": "Orisa",
+    "role": "Tank",
+    "releaseDate": "2017-03-21"
+  },
+  {
+    "hero": "Pharah",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Ramattra",
+    "role": "Tank",
+    "releaseDate": "2022-12-06"
+  },
+  {
+    "hero": "Reaper",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Reinhardt",
+    "role": "Tank",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Roadhog",
+    "role": "Tank",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Sigma",
+    "role": "Tank",
+    "releaseDate": "2019-08-13"
+  },
+  {
+    "hero": "Sojourn",
+    "role": "Damage",
+    "releaseDate": "2022-10-04"
+  },
+  {
+    "hero": "Soldier: 76",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Sombra",
+    "role": "Damage",
+    "releaseDate": "2016-11-15"
+  },
+  {
+    "hero": "Symmetra",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Torbjörn",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Tracer",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Venture",
+    "role": "Damage",
+    "releaseDate": "2024-04-16"
+  },
+  {
+    "hero": "Widowmaker",
+    "role": "Damage",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Winston",
+    "role": "Tank",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "role": "Tank",
+    "releaseDate": "2018-07-24"
+  },
+  {
+    "hero": "Zarya",
+    "role": "Tank",
+    "releaseDate": "2016-05-24"
+  },
+  {
+    "hero": "Zenyatta",
+    "role": "Support",
+    "releaseDate": "2016-05-24"
+  }
+]
