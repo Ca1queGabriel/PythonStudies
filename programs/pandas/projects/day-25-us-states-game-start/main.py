@@ -18,6 +18,7 @@ while len(guessed_states) < 50:
         break
 
     if answer_state in all_states:
+
         guessed_states.append(answer_state)
         writer = turtle.Turtle()
         writer.penup()
@@ -28,4 +29,6 @@ while len(guessed_states) < 50:
 
 #pandas import
 data[~data["state"].isin(guessed_states)].to_csv("states_to_learn.csv", index=False)
+data = [s for s in guessed_states if s not in all_states].to_csv("states_to_learn.csv", index=False)
+
 pd.Series(guessed_states, name = "Guessed States").to_csv("guessed_states.csv", index = False)

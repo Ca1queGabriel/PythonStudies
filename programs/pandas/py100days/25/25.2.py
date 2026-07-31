@@ -5,7 +5,7 @@ def convertCelsiusToFahreinheit(celsius):
 
 # print(df[df["temp"] == df["temp"].max()])
 # print(df["temp"].mean())
-df = pd.read_csv("../../../resources/weather_data.csv")
+df = pd.read_csv("../../../../resources/weather_data.csv")
 monday_temp = df[df["day"] == "Monday"]["temp"]
 f_temp = convertCelsiusToFahreinheit(monday_temp)
 

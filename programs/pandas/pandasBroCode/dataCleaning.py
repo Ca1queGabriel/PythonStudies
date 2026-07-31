@@ -1,6 +1,6 @@
 ﻿import pandas as pd
 
-df = pd.read_csv("../../resources/overwatch.csv")
+df = pd.read_csv("../../../resources/overwatch.csv")
 
 #dropar colunas indesejadas, nesse caso Hero e ReleaseDate
 # df = df.drop(columns=["Role", "ReleaseDate"])

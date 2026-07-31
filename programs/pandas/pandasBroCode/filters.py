@@ -1,7 +1,7 @@
 ﻿import pandas as pd
 
 
-df = pd.read_csv("../../resources/overwatch.csv")
+df = pd.read_csv("../../../resources/overwatch.csv")
 
 #filtering = Keeping the rows that match a condition
 

@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("../../resources/overwatch.csv", index_col="Hero")
+df = pd.read_csv("../../../resources/overwatch.csv", index_col="Hero")
 
 # print(df[["Role"]].to_string())
 

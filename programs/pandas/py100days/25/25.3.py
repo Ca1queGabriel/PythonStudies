@@ -1,7 +1,7 @@
 ﻿import pandas as pd
 
 
-data = pd.read_csv("../../../resources/Squirrel_data.csv")
+data = pd.read_csv("../../../../resources/Squirrel_data.csv")
 
 df = data.groupby("Primary Fur Color").size().reset_index(name="Count")
 

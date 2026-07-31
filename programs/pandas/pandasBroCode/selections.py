@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-df = pd.read_csv("../../resources/overwatch.csv", index_col="Hero")
+df = pd.read_csv("../../../resources/overwatch.csv", index_col="Hero")
 #OU
 df1 = pd.read_json("../resources/overwatch.json").set_index("hero")
 
