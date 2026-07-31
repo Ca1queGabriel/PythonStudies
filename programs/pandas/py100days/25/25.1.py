@@ -14,4 +14,4 @@
 
 import pandas as pd
 
-data = pd.read_csv("../../../resources/weather_data.csv")
+data = pd.read_csv("../../../../resources/weather_data.csv")

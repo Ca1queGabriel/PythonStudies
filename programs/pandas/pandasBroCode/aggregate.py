@@ -1,6 +1,6 @@
 ﻿import pandas as pd
 
-df = pd.read_csv("../../resources/overwatch.csv")
+df = pd.read_csv("../../../resources/overwatch.csv")
 
 df1 = pd.DataFrame([{"Nome": "Caique", "Altura": 1.77, "Profissão": "Engenheiro Software"},{"Nome": "Matheus", "Altura": 1.77, "Profissão": "Desenvolvedor Junior"},{"Nome": "Duda", "Altura": 1.58, "Profissão": "Desenvolvedor Junior"}], index = ["Pessoa 1", "Pessoa 2", "Pessoa 3"])
 
